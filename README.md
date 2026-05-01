@@ -18,7 +18,7 @@ GuardianAlert solves this with a single tap — or a phone shake.
 
 ## Live Demo
 
-🔗 **[https://jiyusuhqoyiic.mocha.app](https://guardianalert.pro/)**
+🔗 **[https://guardianalert.pro/](https://guardianalert.pro/)**
 
 The app is fully functional and installable as a PWA on Android and iOS.
 
