@@ -1,0 +1,26 @@
+{
+  "name": "Calculadora",
+  "short_name": "Calc",
+  "description": "Calculadora simples e prática",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#DC2626",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://019c8a81-cc23-78b7-a1c2-d50c43bf83a8.mochausercontent.com/guardian-icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://019c8a81-cc23-78b7-a1c2-d50c43bf83a8.mochausercontent.com/guardian-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "pt-BR"
+}
