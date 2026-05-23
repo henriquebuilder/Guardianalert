@@ -28,32 +28,32 @@ The app is fully functional and installable as a PWA on Android and iOS.
 
 ## Key Features
 
-### 🚨 Emergency Core
+###  Emergency Core
 - **Panic Button** — large, pulsing, one-tap activation
 - **Cancelable Countdown** — 3/5/10 seconds before sending (prevents accidental triggers)
 - **Real-time GPS** — captures coordinates automatically on alert
 - **Audio Recording** — 30-second background recording uploaded as legal evidence to Cloudflare R2
 - **SMS via Twilio** — instant message to emergency contacts with name, age, notes, and Google Maps link
 
-### 🕵️ Disguise Mode
+###  Disguise Mode
 - App appears as a fully functional calculator
 - Type `911=` to unlock GuardianAlert
 - Metadata (title, icon) also masked as "Calculator"
 - Configurable via settings
 
-### 🗺️ Safe Places Map
+###  Safe Places Map
 - 78 pre-registered locations across 10 Brazilian capitals
 - Types: DEAM, Police, Hospital, Shelter, NGO, Pharmacy
 - Filter by type, toggle list/map view
 - Distance calculation from user's location
 - "Get Directions" button opens Google Maps
 
-### 👥 Contact Management
+###  Contact Management
 - Full CRUD for emergency contacts
 - Mark priority contact (notified first)
 - Relationship field (friend, family, etc.)
 
-### 📊 Alert History
+###  Alert History
 - Complete history with audio player
 - Status tracking: Pending → Active → In Progress → Resolved
 - 30-second auto-refresh + manual refresh
